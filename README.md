@@ -7,7 +7,6 @@ Welcome to my repository where I solve daily programming problems from various p
 - Each problem is stored in its own folder, named after the problem.
 - Every folder includes:
   - A **README.md** with:
-    - Problem description
     - Approach explanation
     - Time and space complexity analysis
   - A **solution file** containing the code solution in a relevant programming language (e.g., Python, Java, etc.).
